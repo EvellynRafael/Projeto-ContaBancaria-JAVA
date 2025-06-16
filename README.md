@@ -4,5 +4,5 @@ Primeiro projeto em JAVA. A ideia é simular uma conta corrente simples. Visuali
 # Detalhes
 - O enunciado do desafio constia em criar o projeto utilizar o while e if/else como laço de repetição.
 - Como já tinha conhecimento em outras linguagens, pensei que o projeto ficaria melhor utilizando o switch.
-- O primeiro arquivo é a versão solicitada pelo enunciado.
-- O segundo arquivo é a versão que pensei e fazer de uma forma diferente (utilizando switch).
+- O primeiro arquivo é a versão solicitada pelo enunciado (Main).
+- O segundo arquivo é a versão que pensei e fazer de uma forma diferente (ContaBancaria).
